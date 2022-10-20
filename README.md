@@ -1,2 +1,2 @@
 # LWJGL
-A Lightway and Easy to Use LWJGL Wrapepr
+A Lightway and Easy to Use LWJGL Wrapper
